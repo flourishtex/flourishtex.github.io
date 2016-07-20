@@ -7026,7 +7026,7 @@ textarea.md-textarea {
 }
 
 .navbar .navbar-toggler {
-  float: right;
+  float: left;
 }
 
 .navbar .navbar-toggler:focus {
